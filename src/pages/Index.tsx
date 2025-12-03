@@ -51,7 +51,8 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <nav className="fixed top-0 w-full bg-background/95 backdrop-blur-sm z-50 border-b border-border">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-primary">FloorMaster</h1>
+          <h1 className="text-2xl font-bold text-primary">ФАРИДУНе FLOORe
+</h1>
           <div className="flex gap-6">
             <a href="#services" className="text-foreground hover:text-primary transition-colors">Услуги</a>
             <a href="#gallery" className="text-foreground hover:text-primary transition-colors">Галерея</a>
