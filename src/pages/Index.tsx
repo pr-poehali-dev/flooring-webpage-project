@@ -65,9 +65,7 @@ const Index = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="text-center animate-fade-in">
             <h2 className="text-5xl md:text-6xl font-bold text-foreground mb-6">Лучшие консультации под стопарик </h2>
-            <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Профессиональная укладка и широкий выбор материалов высочайшего качества
-            </p>
+            <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">Профессиональная ссанина в уши и широкий выбор материалов высочайшего качества</p>
             <Button size="lg" className="text-lg px-8 py-6">
               Получить консультацию
             </Button>
